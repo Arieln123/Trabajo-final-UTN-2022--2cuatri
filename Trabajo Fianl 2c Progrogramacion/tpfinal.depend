@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1668625841 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668707766 source:c:\users\usuario\desktop\tpfinal1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1668812776 source:c:\users\arieloxs\desktop\utn\2 cuatri\progra\tp final\tpfinal v2\tpfinal1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
